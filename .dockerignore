@@ -1,0 +1,14 @@
+.cursor
+.idea
+.github
+buil
+vendor
+
+.editorconfig
+.env
+.env.production
+.gitattributes
+.gitignore
+composer.lock
+Makefile
+README.md
