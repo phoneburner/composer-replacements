@@ -23,7 +23,7 @@
     },
     "replace": {
         "paragonie/random_compat": ">=v2.0.0",
-        "paragonie/sodium_compat": "*",
+        "paragonie/sodium_compat": ">=v2.0.0",
         "symfony/polyfill-ctype": "*",
         "symfony/polyfill-iconv": "*",
         "symfony/polyfill-intl-grapheme": "*",
@@ -39,5 +39,9 @@
         "symfony/polyfill-php82": "*",
         "symfony/polyfill-php83": "*",
         "symfony/polyfill-php84": "*"
+    },
+    "conflict": {
+        "paragonie/random_compat": "<v2.0.0",
+        "paragonie/sodium_compat": "<v2.0.0"
     }
 }
