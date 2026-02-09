@@ -22,7 +22,7 @@
         "ext-mbstring": "*"
     },
     "replace": {
-        "paragonie/random_compat": ">2.0.0",
+        "paragonie/random_compat": ">2.0.21",
         "paragonie/sodium_compat": ">2.5.0",
         "symfony/polyfill-ctype": "*",
         "symfony/polyfill-iconv": "*",
