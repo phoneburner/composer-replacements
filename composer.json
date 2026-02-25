@@ -3,12 +3,7 @@
     "description": "A 'no-op' Composer dependency used to cleanly replace other packages and unneeded polyfills",
     "type": "library",
     "license": "MIT",
-    "authors": [
-        {
-            "name": "Andy Snell",
-            "email": "andy@phoneburner.com"
-        }
-    ],
+    "authors": [],
     "config": {
         "sort-packages": true
     },
